@@ -1,0 +1,19 @@
+{
+  "name": "gitflow-test",
+  "version": "0.0.1",
+  "description": "Just working out automation options and GitHub Actions for Gitflow. Since there aren't any manual triggers in GitHub without triggering it from the API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deshiknaves/gitflow-test.git"
+  },
+  "author": "Deshiknaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deshiknaves/gitflow-test/issues"
+  },
+  "homepage": "https://github.com/deshiknaves/gitflow-test#readme"
+}

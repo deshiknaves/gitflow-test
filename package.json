@@ -1,6 +1,6 @@
 {
   "name": "gitflow-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Just working out automation options and GitHub Actions for Gitflow. Since there aren't any manual triggers in GitHub without triggering it from the API.",
   "main": "index.js",
   "scripts": {
